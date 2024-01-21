@@ -24,6 +24,7 @@ Intuitive design for easy navigation and a seamless user experience.
 #### Clone the Repository:
 
 Clone this repository to your local machine using bash:
+
 git clone https://github.com/aghiad77/BarcodeScanner.git
 #### Configure Backend Endpoint:
 
@@ -31,6 +32,7 @@ Set up the backend service or database endpoint in the app's configuration.
 #### Build and Run:
 
 1- Open the project in Android Studio.
+
 2- Build the project and run the application on your Android device or emulator.
 
 ## Usage:
